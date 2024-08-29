@@ -18,5 +18,3 @@ import { TypeOrmModule } from '@nestjs/typeorm';
   providers: [AppService],
 })
 export class AppModule {}
-
-//postgresql://todo_owner:iHhfSdZTqE13@ep-proud-math-a56oqmvo.us-east-2.aws.neon.tech/todo?sslmode=require
